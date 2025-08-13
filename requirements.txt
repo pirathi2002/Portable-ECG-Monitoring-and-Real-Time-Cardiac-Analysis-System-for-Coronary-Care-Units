@@ -1,0 +1,7 @@
+neurokit2 
+numpy 
+matplotlib
+streamlit
+pandas
+scipy
+streamlit-option-menu
